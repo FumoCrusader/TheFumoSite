@@ -1,16 +1,19 @@
 #titlecorners1 {
     border-radius: 15px;
-    background: #04A2EC;
+    border: 2px solid #04A2EC;
+    background: url(/content/images/testpattern.png);
     padding: 15px; 
     width: 200px;
     height: 150px;
     color: blue;
+    font-size: 17px;
 }
 #maincorners1 {
     border-radius: 15px;
-    background: #04A2EC;
+    border: 2px solid #04A2EC;
+    background: url(/content/images/testpattern.png);
     padding: 15px;
-    width: 800px;
+    width: 900px;
     padding-top: 50px;
     padding-bottom: 70px;
 }
@@ -19,6 +22,11 @@
     bottom: 10px;
     width: 100%;
     color: lightblue;
+}
+body {
+    font-family: 'Be Vietnam';
+    background: #F9FAFB;
+    font-size: 15px;
 }
 .center {
     margin: auto;
@@ -32,9 +40,6 @@ a:link {
 }
 a:visited {
     color: blue;
-}
-a:hover {
-    color: lightblue;
 }
 a:active {
     color: darkblue;
