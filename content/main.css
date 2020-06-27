@@ -27,14 +27,15 @@ a {
     color: white;
 }
 a:link {
-  color: blue;
+    color: blue;
+    text-decoration: none;
 }
 a:visited {
-  color: blue;
+    color: blue;
 }
 a:hover {
-  color: lightblue;
+    color: lightblue;
 }
 a:active {
-  color: darkblue;
+    color: darkblue;
 }
