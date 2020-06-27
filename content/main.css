@@ -1,0 +1,39 @@
+#titlecorners1 {
+    border-radius: 15px;
+    background: #04A2EC;
+    padding: 15px; 
+    width: 200px;
+    height: 150px;
+    color: blue;
+}
+#maincorners1 {
+    border-radius: 15px;
+    background: #04A2EC;
+    padding: 15px;
+    width: 800px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+#alignbottom {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+.center {
+    margin: auto;
+}
+a {
+    color: white;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: lightblue;
+}
+a:active {
+  color: darkblue;
+}
